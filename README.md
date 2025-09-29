@@ -1,7 +1,7 @@
 # MixMin
 Code Base for "MixMin: Finding Data Mixtures via Convex Minimization"
 
-The code the the LLM experiments is under "LLM_DataMixing", and the workflow is:
+The code for the LLM experiments is under "LLM_DataMixing", and the workflow is:
 
 1) train proxy models (run train.py with desired arguments)
 2) eval proxy models on target (run llm_eval.py)

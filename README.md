@@ -17,4 +17,8 @@ The code for the chemistry experiments is under "PCBA", and the workflow is (ana
 
 If adapting to a new dataset, I recommend adapting the pcba codebase (which has cleaner functions) unless dealing specifically with LLMs.
 
+*NOTE*: I used the environment in mixmin_requirements.txt for everything except training and evaluating LLMs, where I used the llm_requirements.txt in the LLM_DataMixing folder. Both of the requirements.txt have some unecessary packages, and I recommend looking at the imports for the files to have a more streamlined environment.
+
+
+
 

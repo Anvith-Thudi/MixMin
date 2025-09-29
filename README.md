@@ -1,5 +1,5 @@
 # MixMin
-Code Base for "MixMin: Finding Data Mixtures via Convex Minimization"
+Code Base for ["MixMin: Finding Data Mixtures via Convex Minimization"](https://arxiv.org/abs/2502.10510) published at ICML 2025.
 
 The code for the LLM experiments is under "LLM_DataMixing", and the workflow is:
 

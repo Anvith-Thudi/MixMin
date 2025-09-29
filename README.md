@@ -15,6 +15,6 @@ The code for the chemistry experiments is under "PCBA", and the workflow is (ana
 2) run mixmin (run pcba_100k_mixmin.py)
 3) train final model (run pcba_100k_mixmin_train.py)
 
-If adapting to a new dataset, I recommend adapting the pcba codebase and functionality unless llm_eval is needed to evaluate the target task.
+If adapting to a new dataset, I recommend adapting the pcba codebase (which has cleaner functions) unless dealing specifically with LLMs.
 
 
